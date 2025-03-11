@@ -1,0 +1,17 @@
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\bin\Debug\net9.0-windows\sudoku prueba.exe
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\bin\Debug\net9.0-windows\sudoku prueba.deps.json
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\bin\Debug\net9.0-windows\sudoku prueba.runtimeconfig.json
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\bin\Debug\net9.0-windows\sudoku prueba.dll
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\bin\Debug\net9.0-windows\sudoku prueba.pdb
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\obj\Debug\net9.0-windows\sudoku_prueba.Form1.resources
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\obj\Debug\net9.0-windows\sudoku prueba.csproj.GenerateResource.cache
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\obj\Debug\net9.0-windows\sudoku prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\obj\Debug\net9.0-windows\sudoku prueba.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\obj\Debug\net9.0-windows\sudoku prueba.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\obj\Debug\net9.0-windows\sudoku prueba.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\obj\Debug\net9.0-windows\sudoku prueba.dll
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\obj\Debug\net9.0-windows\refint\sudoku prueba.dll
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\obj\Debug\net9.0-windows\sudoku prueba.pdb
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\obj\Debug\net9.0-windows\sudoku prueba.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\obj\Debug\net9.0-windows\ref\sudoku prueba.dll
+C:\Users\manue\OneDrive\Escritorio\visual ejercicios\sudoku prueba\sudoku prueba\obj\Debug\net9.0-windows\sudoku_prueba.sudokufacil.resources
